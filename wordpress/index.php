@@ -1,5 +1,5 @@
 <?php
-echo '<h1>this is another test commit faggot</h1>';
+echo '<h1>this is another test commit</h1>';
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
  * wp-blog-header.php which does and tells WordPress to load the theme.
